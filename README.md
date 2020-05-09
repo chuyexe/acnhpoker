@@ -39,6 +39,9 @@ https://youtu.be/-zztRgmtXig
    
 * 1.0
    * Added a lotta stuff, check the releases for a full update.
+   
+* 1.2
+   * New material design + Diy recipie additions
 
 ## Contributing
 
