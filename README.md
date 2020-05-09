@@ -1,11 +1,11 @@
 # ACNHPoker
-> Seriously, someone please come up with a better name
+> Seriously, someone please come up with a better name (I'm trying)
 
 Spawns items for you on Animal Crossing New Horizons using [sys-botbase](https://github.com/olliz0r/sys-botbase).
 
 
 ## Pre Requisites
-   1. a nintendo switch capable of running unsigned code
+   1. a nintendo switch capable of running unsigned code (I.e modded switch)
    2. [This](https://github.com/olliz0r/sys-botbase) installed on your switch.
    3. Animal Crossing Version 1.2.0+
 
@@ -41,7 +41,7 @@ https://youtu.be/-zztRgmtXig
    * Added a lotta stuff, check the releases for a full update.
    
 * 1.2
-   * New material design + Diy recipie additions
+   * New material design + DIY recipe additions
 
 ## Contributing
 
@@ -60,3 +60,13 @@ If you are considering donation please keep in mind that the donation doesn't ge
 ## Meta
 
 Distributed under the BSD 2 license. See ``LICENSE`` for more information.
+
+## Troubleshooting
+
+*If you are using Kosmos "Defaults" SD setup, some Sys Modules are known to cause problem with the in-game inventroy addresses.
+Please avoid choosing "sys-clk", "sys-ftpd-light", "sys-con" or "ldn_mitm" in the SD packages.
+If you are not sure, please use "Minimal" instead.
+
+*Edizon is also known to cause problems, deactivating the module may help, though deleting Edizon and it's overlays is recommended
+
+*If images will not install, click the small grey box in the top right corner, that is there incase the original download button does not funtion.
