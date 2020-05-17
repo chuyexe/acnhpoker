@@ -33,3 +33,8 @@ If you are not sure, please use "Minimal" instead.
 *Edizon is also known to cause problems, deactivating the module may help, though deleting Edizon and it's overlays is recommended
 
 *If images will not install, click the small grey box in the top right corner, that is there incase the original download button does not funtion.
+
+### Notes
+
+*If you would like to support this project, please check the funding on Kinglycosas page, since he is the original creator
+*If you would like to support using my link instead, well, thanks
