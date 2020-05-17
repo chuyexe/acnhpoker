@@ -4,7 +4,9 @@ Easily spawn items in Animal Crossing
 
 ## What you need
 *A nintendo switch capable of running unsigned code (I.e modded switch)
+
 *[SYS - BOTBASE](https://github.com/olliz0r/sys-botbase) installed on your switch.
+
 *Animal Crossing Version 1.2.0+
 
 ## Installation
