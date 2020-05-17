@@ -1,3 +1,5 @@
+![Joe](https://user-images.githubusercontent.com/62577381/82133374-37813e80-97a0-11ea-9d3d-4087bb768b8e.png)
+
 # ACNHPoker
 
 Easily spawn items in Animal Crossing
